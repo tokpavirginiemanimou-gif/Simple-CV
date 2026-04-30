@@ -30,3 +30,4 @@ Il s'inscrit dans mon apprentissage du développement front-end, avec pour objec
 ## Auteur
 Tokpa Virginie Manimou
 Étudiante en Mathématiques et Informatique, passionnée par l’intelligence artificielle et le développement web.
+https://github.com/tokpavirginiemanimou-gif/Simple-CV/blob/main/CVwithRoadmap.html
